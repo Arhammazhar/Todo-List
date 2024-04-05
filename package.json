@@ -1,6 +1,6 @@
 {
   "name": "todo-list-muhammad-arham",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is a simple todo list",
   "main": "main.js",
   "type": "module",
